@@ -1,6 +1,6 @@
 # 🎨 Aplicación Cliente - Gestión Educativa (Frontend)
 
-Esta es la implementación del **Frontend** en formato de Aplicación de Una Sola Página (SPA), diseñada para consumir la API de la Prueba Técnica. Se construyó priorizando un entorno moderno, fuertemente tipado e integrando diseño modular.
+Esta es la implementación del **Frontend** en formato de Aplicación de Una Sola Página (SPA), diseñada para consumir la API. Se construyó priorizando un entorno moderno, fuertemente tipado e integrando diseño modular.
 
 ---
 
