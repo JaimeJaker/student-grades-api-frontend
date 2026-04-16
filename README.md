@@ -24,7 +24,7 @@ Para ejecutar la vista en ambiente aislado, solamente necesitas asegurarte de te
 
 ---
 
-## 🚀 Guía de Ejecución Rápida (Máximo 10 Comandos)
+## 🚀 Guía de Ejecución Rápida
 
 Levantar la interfaz gráfica contenida es extremadamente sencillo apoyándote del siguiente comando situado en la raíz de este directorio (`frontend`):
 
